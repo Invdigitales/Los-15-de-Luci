@@ -202,6 +202,11 @@ margin-top: -45%;
   margin-left: 37%;
   margin-top: 2%;
 }
+.percha{
+  width: 10%;
+  margin-left: 46%;
+  margin-top: -5%;
+}
 .linea{
     color:#959595;
     width: 70%;
@@ -226,13 +231,7 @@ margin-top: -45%;
    margin-top: 8%;
    
   }
-  .linea4{
-    color:#6B928F;
-    width: 70%;
-   margin-left: 15%;
-   margin-top: 8%;
-   
-  }
+
   .click2{
     padding: 1px 9px;
     font-size: 18px;
@@ -253,23 +252,7 @@ margin-top: -45%;
 
 
 
-  .primary{
-    padding: 1px 8px;
-    font-size: 18px;
-    border: none;
-    color: #ffffff;
-    background-color:#D97F37;
-    border-radius: 7px;
-    box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
-    cursor: pointer;
-    margin-left: 39%;
-    background-size: 120%;
-    margin-top: 4%;
-    background-size: 50%;
-    font-family: 'Julius Sans One', sans-serif;
-    font-weight: bold;
-  }
-
+  
  
  
 
