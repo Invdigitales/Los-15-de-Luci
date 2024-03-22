@@ -164,8 +164,28 @@ margin-top: -45%;
   margin-left: 5%;
   margin-top: 10%;
 }
+.parrafo5{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+     font-size: 28px;
+     color:  #828282;
+     margin-top: 15%;
+}
+ 
+.icono{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+     font-size: 14px;
+     color:  #393939;
+     margin-top: 5%;
 
-  .linea{
+}
+.whatsap{
+  width: 25%;
+  margin-left: 37%;
+  margin-top: 2%;
+}
+.linea{
     color:#959595;
     width: 70%;
    margin-left: 15%;
@@ -175,10 +195,10 @@ margin-top: -45%;
 
 
   .linea2{
-    color:#6B928F;
+    color:#adadad;
     width: 70%;
    margin-left: 15%;
-   margin-top: -10%;
+   margin-top: 10%;
    
   }
 
