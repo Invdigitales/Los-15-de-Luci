@@ -12,7 +12,7 @@
  
   
   img {
-    margin-top: 5%;
+    margin-top: -1%;
     width: 100%;
     margin-right: 50px;
     box-shadow: 0px 3px 5px rgba(rgb(255, 255, 255), rgb(38, 39, 38), brgb(65, 65, 66) alpha);
@@ -43,7 +43,7 @@
       
   }
   .cr-block {
-     background-image: url(./imagenes/vanesa-papucikova-ZnpH_kiZFDI-unsplash.jpg);
+     background-image: url(./imagenes/ROSA.gif);
      background-size: 50%;
       border-radius: 5px;
       padding: 0.1em 0.5em;
@@ -93,7 +93,7 @@ margin-left: 68%;
   .parrafo1{
     text-align: center;
     font-family: 'Alex Brush', cursive;
-       font-size: 28px;
+       font-size: 30px;
        color:  #a5a5a5;
        margin-top: 10%;
   }
@@ -128,8 +128,26 @@ margin-left: 68%;
        color:  #828282;
        margin-top: 15%;
   }
+  .parrafo6{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 20%;
+  }
 
-
+  .parrafo7{
+    text-align: center;
+    font-family: 'Alex Brush', cursive;
+       font-size: 28px;
+       color:  #828282;
+       margin-top: 5%;
+  }
+  .musica{
+    width: 17%;
+    margin-top: -5%;
+    margin-left: 42%;
+  }
 
 .css-button-arrow--sand{
   padding: 1px 9px;
@@ -142,7 +160,7 @@ margin-left: 68%;
   margin-left: 34%;
   background-size: 120%;
   margin-top: 4%;
-  background-image: url(./imagenes/vanesa-papucikova-ZnpH_kiZFDI-unsplash.jpg);
+  background-image: url(./imagenes/ROSA.gif);
   background-size: 50%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: bold;
@@ -160,9 +178,8 @@ margin-top: -45%;
 
 .foto6{
   width: 90%;
-  height: 50%;
   margin-left: 5%;
-  margin-top: 10%;
+  margin-top: 20%;
 }
 .parrafo5{
   text-align: center;
@@ -203,7 +220,7 @@ margin-top: -45%;
   }
 
   .linea3{
-    color:#6B928F;
+    color:#a4abaa;
     width: 70%;
    margin-left: 15%;
    margin-top: 8%;
@@ -216,37 +233,23 @@ margin-top: -45%;
    margin-top: 8%;
    
   }
-  .click3{
-    padding: 1px 8px;
-    font-size: 17px;
+  .click2{
+    padding: 1px 9px;
+    font-size: 18px;
     border: none;
     color: #ffffff;
-    background-color:#D97F37;
     border-radius: 7px;
-    box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+    box-shadow: 1px 1px 30px -5px rgb(250, 218, 245);
     cursor: pointer;
-   margin-left: 24%;
-   text-decoration: none;
+    margin-left: 25%;
     background-size: 120%;
     margin-top: 4%;
+    background-image: url(./imagenes/ROSA.gif);
     background-size: 50%;
     font-family: 'Julius Sans One', sans-serif;
-
+    font-weight: bold;
+    text-decoration: none;
   }
-
-  .linea6{
-    color:#6B928F;
-    width: 70%;
-   margin-left: 15%;
-   margin-top: 12%;
-   
-  }
-
-  .final{
-    background-color: #A5B38B;
-    padding: 1px;
-  }
-
 
 
 
