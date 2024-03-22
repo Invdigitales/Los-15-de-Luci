@@ -27,7 +27,7 @@
       justify-content: center;
       gap: 1em;
       padding: 0.8em;
-      margin-top: 2%;
+      margin-top: 10%;
   }
   .cr-time > span {
       font-size: 18px;
@@ -158,12 +158,11 @@ margin-top: -45%;
  margin-top: -30%;  
  }
 
-.mapa{
-  width: 80%;
-  height: 80%;
-  margin-left: 23%;
-margin-top: 5%;
-
+.foto6{
+  width: 90%;
+  height: 50%;
+  margin-left: 5%;
+  margin-top: 10%;
 }
 
   .linea{
